@@ -1,14 +1,14 @@
 # Everquest Idle
 
-### Overview
+## Overview
 <p>Idle clicker based on content from the video game Everquest.</p>
 
-### File Types
+#### File Types
 <p>.HTML, .CSS, .JS, .PNG, JSON</p>
 
-### Dependencies
+#### Dependencies
 <p>JQuery<br/>
 D3</p>
 
-### Changelog
+#### Changelog
 03-11-2022 - Initial commit. Loads JSON data into web page. Clicking icons will start timer progress bars.
