@@ -1,0 +1,38 @@
+{
+"Quests": {
+  "Faydwer": [
+	{
+        "Quest_Name": "Elven Wine",
+        "Base_Timer": "10",
+		"Description": "Give a drunkard some elven wine.",
+		"Unlock_Cost": "0"
+    },
+	{
+        "Quest_Name": "Bone Chips",
+        "Base_Timer": "30",
+		"Description": "Collect bone chips for Gunlok Jure.",
+		"Unlock_Cost": "2500"
+    },
+	{
+        "Quest_Name": "Minotaur Horns",
+        "Base_Timer": "60",
+		"Description": "Hand Larkon Theardor minotaur horns.",
+		"Unlock_Cost": "100000"
+    },
+    {
+        "Quest_Name": "Crushbone Shoulderpads",
+        "Base_Timer": "90",
+		"Description": "Turn in shoulderpads to Canloe Nusback.",
+		"Unlock_Cost": "1000000"
+    },
+	{
+        "Quest_Name": "Zombie Skins",
+        "Base_Timer": "120",
+		"Description": "Return zombie skins to Symperbell Moor.",
+		"Unlock_Cost": "5000000"
+    }
+    ],
+    "source": "Everquest",
+	"credit": "xJeris, 2022"
+  }
+}
