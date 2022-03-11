@@ -6,6 +6,7 @@
   <li>CSS</li>
   <li>Javascript</li>
   <li>.PNG</li>
+  <li>JSON</li>
 </ul>
 
 ### Dependencies
